@@ -1,0 +1,219 @@
+body{
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  font-size: auto;
+  color: #40514E;
+  position: relative;
+}
+
+h1{
+  margin: 0 auto 0 auto;
+  font-family: 'Sriracha', cursive;
+  font-size: 4.5rem;
+}
+
+p{
+  font-family: 'Cabin', sans-serif;
+  line-height: 2;
+}
+
+hr{
+  border: dotted darkgreen 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.btn{
+  background: #fbd5af;
+  background-image: -webkit-linear-gradient(top, #fbd5af, #b8502b);
+  background-image: -moz-linear-gradient(top, #fbd5af, #b8502b);
+  background-image: -ms-linear-gradient(top, #fbd5af, #b8502b);
+  background-image: -o-linear-gradient(top, #fbd5af, #b8502b);
+  background-image: linear-gradient(to bottom, #fbd5af, #b8502b);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  font-family: 'PT Sans', sans-serif;
+}
+
+
+.intro{
+  width: 30%;
+  margin:auto;
+}
+
+.contact-me{
+  width: 40%;
+  margin: auto;
+}
+
+.bottom-plane{
+  position: absolute;
+  top: 198px;
+  right: 50px;
+  height: 100px;
+  width: 120px;
+}
+
+.top-plane{
+  position: absolute;
+  right: 388px;
+  top: 60px;
+  height: 100px;
+  width: 100px;
+
+}
+
+.progimg{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  margin-top: 10px;
+}
+
+.top-container{
+  background-color: #90aeff;
+  position: relative;
+  padding-top: 120px;
+}
+
+.subtitle{
+  font-size: 1.2rem;
+}
+
+.middle-container{
+  margin:0;
+  background-color: #fbd5af;
+}
+
+a{
+  color: #11999e;
+  font-family: 'PT Sans', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.first{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  }
+
+.second{
+  width: 50%;
+  float: right;
+  }
+
+a:hover{
+  color:#eaf6f6;
+}
+
+.bottom-container{
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+h2{
+  color: #a44444;
+}
+
+.fish{
+  height: 30px;
+  width: 65px;
+  position: absolute;
+  left: 20px;
+}
+
+.fishtwo{
+  height: 30px;
+  width: 65px;
+  position: absolute;
+  left: 30px;
+  bottom: 25px;
+}
+
+
+
+
+
+.fish-dif{
+  height: 40px;
+  width: 75;
+  position: absolute;
+}
+
+.kuruvi{
+  position: absolute;
+  height: 90px;
+  width: 50px;
+}
+
+.ballon{
+height: 200px;
+width: 200px;
+}
+
+
+
+.spaceship{
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  top: 20px;
+  left: 20px;
+}
+
+.octopus{
+  position: absolute;
+  height: 75px;
+  width: 75px;
+  right: 60px;
+  margin: 0;
+  border-bottom: 0;
+  }
+
+  .lefttree{
+    height: 600px;
+    width: 200px;
+    left: 5px;
+    border: 0;
+    position: absolute;
+  }
+
+  .righttree{
+    height: 600px;
+    width: 200px;
+    right: 1px;
+    border: 0;
+    position: absolute;
+  }
+
+.duck{
+  position: absolute;
+  height: 75px;
+  width: 75px;
+  bottom: 118px;
+}
